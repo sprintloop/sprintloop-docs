@@ -1,2 +1,16 @@
-# sprintloop-docs
-Official documentation for the SprintLoop platform — architecture, SDK guides, workflow patterns, tutorials, governance, and platform concepts.
+
+### **README.md**
+```markdown
+# SprintLoop Docs
+
+Documentation for the **SprintLoop Enterprise OS**.
+
+## Sections
+- Overview  
+- Architecture  
+- SDK guides  
+- Agent patterns  
+- Workflow patterns  
+- Governance  
+
+## Structure
